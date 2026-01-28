@@ -1,4 +1,4 @@
-import { Toaster } from 'sonner@2.0.3';
+import { Toaster } from 'sonner';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { About } from './components/About';

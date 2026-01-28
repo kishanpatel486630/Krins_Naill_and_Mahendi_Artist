@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { MapPin, Phone, Mail, Instagram } from "lucide-react";
-import { toast } from "sonner@2.0.3";
+import { toast } from "sonner";
 import { useScrollAnimation } from "../hooks/useScrollAnimation";
 
 export function Contact() {
